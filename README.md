@@ -7,6 +7,7 @@ Smart Shipping Rate is a system that can calculate total shipping costs automati
 - The shipping distance is input by the user on the mobile application.
 - Data is stored in a real time database on **Google Firebase**.
 - Determination of shipping rates is done on the ESP32 using a **Fuzzy Logic** algorithm.
+- Total shipping cost is displayed on the mobile application.
 
-## Wiring Diagram
-![Wiring Diagram](https://github.com/ZaidanFitra/Smart-Shipping-Rate/blob/main/Wiring-Diagram.png?raw=true)
+## Block Diagram of the System
+![Block Diagram](https://github.com/ZaidanFitra/Smart-Shipping-Rate/blob/main/Block-Diagram-of-the-System.png?raw=true)
